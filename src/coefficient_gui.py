@@ -9,11 +9,8 @@ __filename__ = 'coefficient_gui.py'
 __author__ = 'Andre Wiegleb'
 __created__ = '26.03.2024'
 __copyright__ = 'Copyright 2024, knc'
-__credits__ = ['{credit_list}']
-__license__ = '{license}'
-__version__ = '{mayor}.{minor}.{rel}'
+__version__ = '0.1.0'
 __maintainer__ = 'Andre Wiegleb'
-__email__ = 'andre.wiegleb@mts.com'
 __status__ = '{dev_status}'
 
 import sys
